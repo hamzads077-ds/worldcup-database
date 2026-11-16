@@ -29,6 +29,6 @@ chmod +x insert_data.sh queries.sh
 
 ## 📊 Repository Stats
 
-[![Stars](https://img.shields.io/github/stars/hamzads077-ds/worldcup-database?style=for-the-badge&logo=github&color=yellow)](https://github.com/hamzads077-ds/hamza-portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/hamzads077-ds/worldcup-database?style=for-the-badge&logo=github&color=blue)](https://github.com/hamzads077-ds/hamza-portfolio/network/members)
-[![Views](https://komarev.com/ghpvc/?username=hamzads077-ds-worldcup-database&style=for-the-badge&color=brightgreen&label=VIEWS)](https://github.com/hamzads077-ds/hamza-portfolio)
+[![Stars](https://img.shields.io/github/stars/hamzads077-ds/worldcup-database?style=for-the-badge&logo=github&color=yellow)](https://github.com/hamzads077-ds/worldcup-database/stargazers)
+[![Forks](https://img.shields.io/github/forks/hamzads077-ds/worldcup-database?style=for-the-badge&logo=github&color=blue)](https://github.com/hamzads077-ds/worldcup-database/network/members)
+[![Views](https://komarev.com/ghpvc/?username=hamzads077-ds-worldcup-database&style=for-the-badge&color=brightgreen&label=VIEWS)](https://github.com/hamzads077-ds/worldcup-database)
